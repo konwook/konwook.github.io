@@ -1,7 +1,6 @@
 ---
+permalink: /
 author_profile: true
-redirect_from: 
-  - /projects/
----
+___
 
 Coming soon...
