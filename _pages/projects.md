@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /
 author_profile: true
 redirect_from: 
   - /projects/
