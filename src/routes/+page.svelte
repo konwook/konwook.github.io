@@ -50,9 +50,6 @@
         </div>
         <div>
           <p>{project.desc}</p>
-          {#if project.aside}
-            <aside>{project.aside}</aside>
-          {/if}
         </div>
       </a>
     {/each}
