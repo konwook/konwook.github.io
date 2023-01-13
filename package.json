@@ -16,7 +16,9 @@
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/adapter-static": "^1.0.1",
 		"@sveltejs/kit": "^1.0.0",
+		"@types/js-yaml": "^4.0.5",
 		"@types/marked": "^4.0.8",
+		"@types/strftime": "^0.9.4",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
 		"autoprefixer": "^10.4.13",
@@ -38,8 +40,10 @@
 	"dependencies": {
 		"@fontsource/newsreader": "^4.5.9",
 		"@fontsource/open-sans": "^4.5.13",
+		"@jridgewell/sourcemap-codec": "^1.4.14",
 		"@rollup/plugin-yaml": "^4.0.1",
 		"lucide-svelte": "^0.104.0",
-		"strftime": "^0.10.1"
+		"strftime": "^0.10.1",
+		"svelte-preprocess": "^5.0.0"
 	}
 }
