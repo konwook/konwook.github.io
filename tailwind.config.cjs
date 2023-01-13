@@ -1,4 +1,4 @@
-const defaultTheme = require('tailwindcss/defaultTheme')
+const defaultTheme = require("tailwindcss/defaultTheme");
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -6,9 +6,9 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-        sans: [...defaultTheme.fontFamily.sans],
-        serif: ["Newsreader", ...defaultTheme.fontFamily.serif],
+      sans: [...defaultTheme.fontFamily.sans],
+      serif: ["Newsreader", ...defaultTheme.fontFamily.serif],
     },
   },
   plugins: [],
-}
+};
