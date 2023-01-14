@@ -22,7 +22,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
-      src="https://www.googletagmanager.com/gtag/js?id=G-BS8Z8RZQ74"
+      src="https://www.googletagmanager.com/gtag/js?id=G-E6MHV1GQT5"
     ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -30,7 +30,7 @@
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
-      gtag("config", "G-BS8Z8RZQ74");
+      gtag("config", "G-E6MHV1GQT5");
     </script>
   {/if}
 </svelte:head>
