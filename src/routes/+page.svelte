@@ -42,7 +42,7 @@
       constraints from expert demonstrations.
     </p>
     <p>
-      My research interests are in <i>
+      My research interests lie in <i>
         responsible AI with an emphasis on safety and robustness</i
       >. Some directions I'm excited about include better specifications of
       preferences, mechanistic interpretability of large-scale models, and

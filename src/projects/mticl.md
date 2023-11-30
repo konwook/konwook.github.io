@@ -12,4 +12,5 @@ Regardless of the particular task we want them to perform in an environment, the
 Unfortunately, the constraint learning problem is rather ill-posed and typically leads to overly conservative constraints that forbid all behavior that the expert did not take. We counter this by leveraging diverse demonstrations that naturally occur in multi-task settings to learn a tighter set of constraints. We validate our method with simulation experiments on high-dimensional continuous control tasks.
 
 **Links: [Paper](https://arxiv.org/abs/2309.00711),
-[Website](https://gokul.dev/icl/)**
+[Website](https://gokul.dev/icl/),
+[Github](https://github.com/konwook/mticl)**
