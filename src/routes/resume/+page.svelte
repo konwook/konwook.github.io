@@ -14,7 +14,7 @@
   <div class="mb-4">
     <div class="flex justify-between items-end">
       <h3 class="text-black text-lg">Carnegie Mellon University</h3>
-      <div class="text-neutral-500 mb-0.5">2019 — Current</div>
+      <div class="text-neutral-500 mb-0.5">2019 — 2023</div>
     </div>
     <p class="byline">B.S. in Computer Science | 4.0 GPA</p>
     <p class="byline">Concentration in Machine Learning</p>
@@ -37,13 +37,14 @@
 
   <h4 class="font-medium mt-4 mb-1">Undergraduate technical coursework:</h4>
   <ul>
+    <li>Operating Systems (15-410)</li>
     <li>Compiler Design (15-411)</li>
     <li>Parallel Computer Architecture and Programming (15-418)</li>
-    <li>Physics-Based Rendering (15-468)</li>
-    <li>Computer Graphics (15-462)</li>
     <li>Deep Learning (11-485)</li>
     <li>Deep Reinforcement Learning and Control (10-403)</li>
     <li>Machine Learning with Large Datasets (10-405)</li>
+    <li>Physics-Based Rendering (15-468)</li>
+    <li>Computer Graphics (15-462)</li>
     <li>Real Analysis (21-355)</li>
   </ul>
 </section>
@@ -116,15 +117,14 @@
     <h3 class="font-medium mb-1">Computer Science:</h3>
     <ul>
       <li>
+        <b> SCS Allen Newell Award for Excellence in Undergraduate Research </b> (2023)
+      </li>
+      <li>
         <b>ICPC East Central North America Contest:</b> 11th (2019)
       </li>
       <li>
         <b>USA Computing Olympiad:</b> Platinum Division (2019)
       </li>
-      <li>
-        <b>Google Code Jam:</b> Round 2 (2018)
-      </li>
-      <li><b>Facebook Hacker Cup:</b> Round 2 (2019)</li>
     </ul>
   </div>
 
