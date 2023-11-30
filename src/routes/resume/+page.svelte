@@ -117,7 +117,8 @@
     <h3 class="font-medium mb-1">Computer Science:</h3>
     <ul>
       <li>
-        <b> SCS Allen Newell Award for Excellence in Undergraduate Research </b> (2023)
+        <b> SCS Allen Newell Award for Excellence in Undergraduate Research </b>
+        (2023)
       </li>
       <li>
         <b>ICPC East Central North America Contest:</b> 11th (2019)

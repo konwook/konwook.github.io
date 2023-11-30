@@ -9,7 +9,7 @@
       href: "/projects#mticl",
       desc: "multi-task inverse constraint learning",
       aside: "NeurIPS 2023, Oral at AdvML @ ICML 2023",
-      thesis: "Allen Newell Award for Excellence in Undergraduate Research" 
+      thesis: "Allen Newell Award for Excellence in Undergraduate Research",
     },
     {
       name: "How to Adapt CLIP",
@@ -37,14 +37,18 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I recently graduated from Carnegie Mellon University where I studied computer science and completed 
-      a senior thesis on learning safety constraints from expert demonstrations. 
+      I recently graduated from Carnegie Mellon University where I studied
+      computer science and completed a senior thesis on learning safety
+      constraints from expert demonstrations.
     </p>
     <p>
-      My research interests are in <i> responsible AI with an emphasis on safety and robustness</i>. Some directions I'm excited about 
-      include better specifications of preferences, mechanistic interpretability of large-scale 
-      models, and designing and scaling reinforcement learning algorithms. I'm also broadly interested in topics adjacent to 
-      multi-agent systems, physical simulation, and designing and optimizing low-level systems.
+      My research interests are in <i>
+        responsible AI with an emphasis on safety and robustness</i
+      >. Some directions I'm excited about include better specifications of
+      preferences, mechanistic interpretability of large-scale models, and
+      designing and scaling reinforcement learning algorithms. I'm also broadly
+      interested in topics adjacent to multi-agent systems, physical simulation,
+      and designing and optimizing low-level systems.
     </p>
   </div>
 
@@ -72,8 +76,9 @@
 
   <div class="space-y-5">
     <p>
-      Previously, I've done internships at <a class="link" href="https://jumptrading.com/"
-        >Jump Trading</a
+      Previously, I've done internships at <a
+        class="link"
+        href="https://jumptrading.com/">Jump Trading</a
       >, <a class="link" href="https://ai.facebook.com/">Meta AI</a>, and
       <a class="link" href="https://www.meta.com/">Meta</a>. At Carnegie Mellon,
       I've been a teaching assistant for
