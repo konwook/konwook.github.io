@@ -42,13 +42,13 @@
       constraints from expert demonstrations.
     </p>
     <p>
-      My research interests lie in <i>
-        responsible AI with an emphasis on safety and robustness</i
-      >. Some directions I'm excited about include better specifications of
-      preferences, mechanistic interpretability of large-scale models, and
-      designing and scaling reinforcement learning algorithms. I'm also broadly
-      interested in topics adjacent to multi-agent systems, physical simulation,
-      and designing and optimizing low-level systems.
+      My research interests lie in <i> robust and safe AI</i>, particularly in
+      challenging settings involving interaction or adversaries. Some directions
+      I'm excited about include better specifications of preferences,
+      interpreting large-scale models, and designing and scaling reinforcement
+      learning algorithms. I'm also broadly interested in topics adjacent to
+      multi-agent systems, physical simulation, and designing and optimizing
+      low-level systems.
     </p>
   </div>
 
